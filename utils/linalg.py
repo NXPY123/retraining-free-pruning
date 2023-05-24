@@ -1,5 +1,5 @@
 import torch
-import cupy
+import cupy-cuda12x as cupy
 from cupyx.scipy.sparse.linalg import lsmr
 
 
